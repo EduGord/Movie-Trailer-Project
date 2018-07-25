@@ -22,11 +22,11 @@ The student is also encouraged to start familiarizing with [Standard Code Style 
 
 The Movie Trailer Website project should look like the following image:
 
-![Main page](README_img/project_display.PNG)
+![Main page](README_img/project_display.png)
 
 And it responds to left mouse clicks on any movie poster opening its trailer.
 
-![Trailer display](README_img/project_display_2.PNG)
+![Trailer display](README_img/project_display_2.png)
 
 ## How can I open this project?
 
