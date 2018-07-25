@@ -30,7 +30,7 @@ And it responds to left mouse clicks on any movie poster opening its trailer.
 
 ## How can I open this project?
 
-Simply download *fresh_tomatoes.html* and open it.
+Simply download *index.html* and open it or access it [HERE](https://edugord.github.io/Movie-Trailer-Prject/).
 
 ## How can I compile this project myself?
 
