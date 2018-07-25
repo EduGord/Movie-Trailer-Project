@@ -1,5 +1,7 @@
 # Fresh Tomatoes
 
+\**This project preview is available [HERE](https://edugord.github.io/Movie-Trailer-Prject/)
+
 ## Overview
 
 Fresh tomatoes is the first project of [Udacity's Full-Stack Web Development Nanodegree](https://br.udacity.com/course/full-stack-web-developer-nanodegree--nd004?gclid=CjwKCAjw1tDaBRAMEiwA0rYbSNfv282tTxofILpC99Wtn_T2hK0e7_Kt8NNHD0OucIeCPKCMEn754BoCiiMQAvD_BwE),
@@ -20,11 +22,11 @@ The student is also encouraged to start familiarizing with [Standard Code Style 
 
 The Movie Trailer Website project should look like the following image:
 
-![Main page](project_display.PNG)
+![Main page](README_img/project_display.PNG)
 
 And it responds to left mouse clicks on any movie poster opening its trailer.
 
-![Trailer display](project_display_2.PNG)
+![Trailer display](README_img/project_display_2.PNG)
 
 ## How can I open this project?
 
@@ -38,4 +40,4 @@ Simply run entertainment_center.py through Python in the command line of your op
 
 Example:
 
-![Windows CMD Compiling Example](cmd_example.png)
+![Windows CMD Compiling Example](README_img/cmd_example.png)
