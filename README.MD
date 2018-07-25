@@ -1,6 +1,6 @@
 # Fresh Tomatoes
 
-\**This project preview is available [HERE](https://edugord.github.io/Movie-Trailer-Prject/)
+\**This project preview is available [HERE](https://edugord.github.io/Movie-Trailer-Project/)*
 
 ## Overview
 
@@ -30,7 +30,7 @@ And it responds to left mouse clicks on any movie poster opening its trailer.
 
 ## How can I open this project?
 
-Simply download *index.html* and open it or access it [HERE](https://edugord.github.io/Movie-Trailer-Prject/).
+Simply download *index.html* and open it or access it [HERE](https://edugord.github.io/Movie-Trailer-Project/).
 
 ## How can I compile this project myself?
 
